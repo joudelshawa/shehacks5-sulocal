@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">sulocal</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="letsgetstarted">get started</string>
+    <string name="register">register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logintitle">LOG IN</string>
+    <string name="menutitle">Browse</string>
+    <string name="foodAndDrinksStr"><![CDATA[Food & Drinks]]></string>
+    <string name="retailStr">Retail</string>
+    <string name="virtualStr">Virtual Experiences</string>
+    <string name="miscStr">Miscellaneous</string>
+    <string name="title_activity_retail">Map</string>
+    <string name="title_activity_food">Map</string>
+    <string name="title_activity_misc">Map</string>
+    <string name="title_activity_virtual">Map</string>
+    <string name="continueLabel">continue</string>
+    <string name="thanku">"Thank you for supporting small businesses!"</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="thank_u">Thank you for supporting local businesses.</string>
+</resources>

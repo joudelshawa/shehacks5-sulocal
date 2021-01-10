@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".RateActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Rate your visit"
+        android:textSize="30sp" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="0.5" />
+
+    <Button
+        android:id="@+id/bt_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        app:backgroundTint="#565E4A" />
+
+
+
+</LinearLayout>
